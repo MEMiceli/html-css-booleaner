@@ -26,3 +26,17 @@ ul{
     padding-left: 10px;
     margin-top: 2em;
 }
+table{
+    text-align: left;
+}
+th {
+    background-color: rgb(0, 153, 255);
+    color: white;
+  }
+tr:nth-child(even){
+      background-color: aqua;
+}
+/* #colonna{
+    top: 1em;
+    bottom: 1em;
+} */
